@@ -1,0 +1,10 @@
+Team Members: Nicholas Rosas, Raquel Figueroa, Thalia Villalobos, Maria Garcia
+
+
+                two_a.txt           two_b.txt        % difference
+Mean           0.00243506          0.00230615           5.44 %
+Avg Magnitude    0.004915            0.004076          18.66 %
+Avg Power        0.111615            0.103850           7.21 %
+Std Deviation    0.334079            0.322250           3.60 %
+Variation        0.111609            0.103845           7.21 %
+Zero Cross            111                  67          49.44 %
